@@ -1,0 +1,46 @@
+html, body {
+  height:100%;
+  width:100%;
+}
+
+.container {
+  height:100%;
+}
+
+.col-1 {
+  background-color: #4a90e2;
+  height:100%;
+  width:33.33%;
+  float: left;
+}
+
+.col-2 {
+  background-color: #50e3c2;
+  height:100%;
+  width:33.33%;
+  float:left;
+}
+
+.col-3 {
+  background-color: #b8e986;
+  height:100%;
+  width:33.33%;
+  float:right;
+}
+
+.redBox {
+  background-color: #d0021b;
+  width:33.33%;
+  height:30%;
+  position:absolute;
+  bottom:-1%;
+  float: right;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color:#ffffff;
+  padding:1.5em 0;
+  font-size: 1.75em;
+}
