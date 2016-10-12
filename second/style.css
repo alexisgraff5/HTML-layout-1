@@ -1,6 +1,5 @@
 html, body {
   height:100%;
-  width:100%;
 }
 
 .container {
@@ -30,7 +29,7 @@ html, body {
 
 .redBox {
   background-color: #d0021b;
-  width:33.33%;
+  width:32.79%;
   height:30%;
   position:absolute;
   bottom:-1%;
